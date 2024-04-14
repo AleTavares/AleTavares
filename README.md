@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleTavares)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 # Sobre
 Profissional com mais de 24 anos de experiência em Tecnologia da Informação (TI), dos quais 10 anos focados em desenvolvimento de software e os demais anos focado em projetos com tecnologias voltadas para negócios e jornada de dados como: Big Data, Machine Learning e Inteligência Artificial, Governança de Dados, Business Intelligence, Data Warehouse, Ferramentas de Gestão e estruturação de capacidades para implantação de cultura Data Driven. 
 
