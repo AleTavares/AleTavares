@@ -1,6 +1,6 @@
 <h1>Bem vindo ao meu perfil!</h1>
 <div>
-  <a href="https://beacons.ai/edutavares">  
+  <a href="https://linktr.ee/alexandretavares1980">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AleTavares&show_icons=true&theme=radical&locale=pt-br"/>
   <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleTavares&layout=donut&theme=radical&locale=pt-br"/>
   </a>
