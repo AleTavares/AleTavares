@@ -23,7 +23,7 @@
 
 - 🔭 Atualmente trabalho como Arquiteto de BigData.
 - 🌱 Trabalhando em um Projeto pessoal de disponibilizar códigos para construção de uma plataforma de dados na AWS.
-- ⚡ Curiosidade: Apaixonado por Aquarismo e Lagos Ornamentais, Apaixonado por minha familia e Apaionado pelo Brasil
+- ⚡ Curiosidade: Apaixonado por Aquarismo e Lagos Ornamentais, Apaixonado por minha familia e Apaixonado pelo Brasil
 
 # Sobre Mim
 Mais de 26 anos de experiência em Tecnologia da Informação (TI), dos quais 10 anos focados em desenvolvimento de software e os demais anos focado em projetos com tecnologias voltadas para negócios e jornada de dados como: Big Data, Machine Learning e Inteligência Artificial, Governança de Dados, Business Intelligence, Data Warehouse, Ferramentas de Gestão e estruturação de capacidades para implantação de cultura Data Driven. 
