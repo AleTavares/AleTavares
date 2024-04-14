@@ -1,18 +1,29 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleTavares)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-# Sobre
-Profissional com mais de 24 anos de experiência em Tecnologia da Informação (TI), dos quais 10 anos focados em desenvolvimento de software e os demais anos focado em projetos com tecnologias voltadas para negócios e jornada de dados como: Big Data, Machine Learning e Inteligência Artificial, Governança de Dados, Business Intelligence, Data Warehouse, Ferramentas de Gestão e estruturação de capacidades para implantação de cultura Data Driven. 
+<h1>Bem vindo ao meu perfil!</h1>
+<div>
+  <a href="https://beacons.ai/edutavares">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AleTavares&show_icons=true&theme=radical&locale=pt-br"/>
+  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleTavares&layout=donut&theme=radical&locale=pt-br"/>
+  </a>
+</div>
 
-Conhecimento sólido e abrangente de todas as etapas de projetos de tecnologia da informação com ênfase para gestão, desenho, planejamento, atendimento a metodologias, estruturação de processos, definição de escopo, liderança de equipes, relacionamento com usuários nos diversos níveis organizacionais, gestão de parceiros, definição de métricas e indicadores.
+<div width="100%" style="display: inline_block; text-align:center;"><br>
+  <img align="center" alt="Eduardo-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Eduardo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Eduardo-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
 
-Ampla vivência com arquitetura de soluções de Data & Analytics, Machine Learning e Inteligência Artificial, modelagem de dados relacional/dimensional, análise de processos de negócio e métodos para garantia de qualidade de dados.
+<hr>
+<b>Meus contatos:</b>
+<div>
+  <a href="https://www.linkedin.com/in/alexandre-tavares/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5511941923002"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:alexandretavares.bigdata@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+<h2>Alguns fatos sobre mim</h2>
 
-Habilidade na gestão de projetos, formação de times, condução de levantamento de requerimentos em ambientes complexos, estruturação e implantação de processos e metodologias.
+- 🔭 Atualmente trabalho como Arquiteto de BigData.
+- 🌱 Trabalhando em um Projeto pessoal de disponibilizar códigos para construção de uma plataforma de dados na AWS.
+- ⚡ Curiosidade: Apaixonado por Aquarismo e Lagos Ornamentais, Apaixonado por minha familia e Apaionado pelo Brasil
 
-Atuação em definições de estratégia e execução de processos e suporte para garantia de execução da entrega com os times de delivery (internos, parceiros e clientes).
-
-Atuação em projetos para variados segmentos, como financeiro, telecomunicações, logística, indústria, prestação de serviços, governança, varejo, , atendendo a grandes empresas como GPTW, Banco C6, Globo, Falconi e Cogna. 
-
-Experiência na arquitetura de solução, implantação e consumo com as principais nuvens de mercado: AWS, Azure e Google.
-
-Prática na adoção, arquitetura e desenvolvimento com ferramentas para Data & Analytics, Machine Learning e Inteligência Artificial, IOT e Governança de Dados como: ecossistema Hadoop (HDFS, Hive, Impala, Spark), AWS (AWS Glue, AWS Lake Formation, Amazon EMR, Amazon Athena, Amazon S3, Amazon Kinesis, Amazon SQS, Amazon SNS, Amazon Redshift,  Amazon Aurora, DynamoDB, RDS,  SageMaker, entre outros), Google Cloud (BigQuery, Compute Engine, Cloud Storage, DataProc, Pub/Sub, Source Repositori, Camposer, CludFunction, Cloud Run, Cloud FUnctions, BigTable, Looker, Data Catalog, Vertex AI, entre outros), Microsoft e Azure (PowerBI, SQL Server, VM, Data Factory ), Tableau, Python, R, Spark, Scala, AirFlow, NiFi, TerraForm, Pentaho, ODI e outros.
+# Sobre Mim
+Mais de 26 anos de experiência em Tecnologia da Informação (TI), dos quais 10 anos focados em desenvolvimento de software e os demais anos focado em projetos com tecnologias voltadas para negócios e jornada de dados como: Big Data, Machine Learning e Inteligência Artificial, Governança de Dados, Business Intelligence, Data Warehouse, Ferramentas de Gestão e estruturação de capacidades para implantação de cultura Data Driven. 
